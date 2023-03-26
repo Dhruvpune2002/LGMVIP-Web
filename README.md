@@ -4,12 +4,12 @@ This repository contains the two tasks that I have completed under the LetsGrowM
 
 1) Calculator using HTML, CSS and Javascript
     Files:
-    index.html
-    style.css
-    script.js
+    a)  index.html
+    b) style.css
+    c) script.js
     
 2) To-Do List WebApp using HTML, CSS and Javascript
     Files:
-    index2.html
-    main.css
-    main.js
+    a) index2.html
+    b) main.css
+    c) main.js
