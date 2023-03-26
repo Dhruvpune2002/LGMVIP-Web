@@ -10,6 +10,6 @@ This repository contains the two tasks that I have completed under the LetsGrowM
     
 2) To-Do List WebApp using HTML, CSS and Javascript
     Files:
-    index.html
+    index2.html
     main.css
     main.js
